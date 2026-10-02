@@ -30,4 +30,4 @@ MyWallet updates itself: when a new version is available, the app downloads it, 
 
 ## Issues and suggestions
 
-If something goes wrong, open an [Issue](https://github.com/joaq-26/MyWallet/issues) and tell us what happened.
+If you see that something goes is not going as it should, open an [Issue](https://github.com/joaq-26/MyWallet/issues) and tell me what happened.
