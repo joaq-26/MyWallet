@@ -1,5 +1,7 @@
 
 
+<h1 align="center">MyWallet</h1>
+
 A desktop app to manage your personal finances: transactions, banks, investments, goals and more. Your data is stored on your own computer.
 
 ## Download
@@ -19,4 +21,8 @@ The first time you open the app, you create your profile with your name and a pa
 
 ## Updates
 
-MyWallet updates itself: when a new version is available, the app downloads it, checks its digital signature, installs
+MyWallet updates itself: when a new version is available, the app downloads it, checks its digital signature, installs it and restarts. You don't need to download anything from this page again.
+
+## Issues and suggestions
+
+If something goes wrong, open an [Issue](https://github.com/joaq-26/MyWallet/issues) and tell us what happened.
