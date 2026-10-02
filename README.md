@@ -4,7 +4,9 @@
 
 What is MyWallet? Well, as you can deduce from the name MyWallet is an app specifically made to manage your finances. 
 
-The idea behind this application began with the fact that I had my savings a little unattended. Of course the most logical thing is to make an Excel creating your tables with your =SUMIF() or your COUNTIF(), create your graphs and write down block by block all the movements you make in your day to be able to keep your accounts. But that didn't work for me since the only thing it made me feel that I was even more lost. That's why I developed MyWallet, it's an app that simplifies things for you In an abysmal way, just by putting your movements in transaction you can go from having no idea how it happened to me to being able to take your finances without problem.
+The idea behind this application began with the fact that I had my savings a little unattended. Of course the most logical thing is to make an Excel creating your tables with your =SUMIF() or your COUNTIF(), create your graphs and write down block by block all the movements you make in your day to be able to keep your accounts. But that didn't work for me since the only thing it made me feel that I was even more lost. 
+
+That's why I developed MyWallet, it's an app that simplifies things for you In an abysmal way, just by putting your movements in transaction you can go from having no idea how it happened to me to being able to take your finances without problem.
 
 
 ## Download
