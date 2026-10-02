@@ -2,13 +2,18 @@
 
 <h1 align="center">MyWallet</h1>
 
-What is MyWallet? Well, as you can deduce from the name MyWallet is an app specifically made to manage your finances. 
+What is MyWallet?
+As you can probably guess from its name, MyWallet is an app designed to help you manage your personal finances in a simple and intuitive way.
 
-The idea behind this application began with the fact that I had my savings a little unattended. Of course the most logical thing is to make an Excel creating your tables with your =SUMIF() or your COUNTIF(), create your graphs and write down block by block all the movements you make in your day to be able to keep your accounts. But that didn't work for me since the only thing it made me feel that I was even more lost. 
+The idea behind this application came from a very common question: "Where did my money go this month?" I realized that I had my finances and savings somewhat unattended. The most logical solution would be to build an Excel spreadsheet with formulas like SUMIF() and COUNTIF(), create charts, and manually track every transaction. However, instead of helping me, it only made me feel even more lost.
 
-That's why I developed MyWallet, it's an app that simplifies things for you in an abysmal way, just by putting your movements in transaction you can go from having no idea how it happened to me to being able to take your finances without problem.
+That's why I developed MyWallet. The goal was to create a tool that simplifies financial management in an abysmal way. By simply recording your transactions, you can go from having no idea where your money is going to having a clear picture of your financial situation.
 
-So if the same thing happens to you as to me and you're tired of using Excel, give it a try and tell me what you think.
+MyWallet is not limited to tracking monthly income and expenses. It can also help you monitor investments in stocks and other assets, keep track of your savings goals, and even see how much remains to be paid on your mortgage. The application is flexible and can be adapted to different users and financial situations, allowing everyone to organize the information that matters most to them.
+
+In short, MyWallet gives you greater control over your finances, helping you understand your spending habits, monitor your assets, and make better financial decisions.
+
+So, if you've ever asked yourself the same question I did and you're tired of relying on spreadsheets, give MyWallet a try and let me know what you think.
 ## Download
 
 1. Go to **[Releases](https://github.com/joaq-26/MyWallet/releases/latest)**.
