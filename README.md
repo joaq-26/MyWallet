@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="logo.png" alt="MyWallet" width="120">
-</p>
 
-<h1 align="center">MyWallet</h1>
 
 A desktop app to manage your personal finances: transactions, banks, investments, goals and more. Your data is stored on your own computer.
 
