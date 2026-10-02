@@ -8,7 +8,7 @@ The idea behind this application began with the fact that I had my savings a lit
 
 That's why I developed MyWallet, it's an app that simplifies things for you in an abysmal way, just by putting your movements in transaction you can go from having no idea how it happened to me to being able to take your finances without problem.
 
-
+So if the same thing happens to you as to me and you're tired of using Excel, give it a try and tell me what you think.
 ## Download
 
 1. Go to **[Releases](https://github.com/joaq-26/MyWallet/releases/latest)**.
