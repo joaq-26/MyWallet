@@ -1,5 +1,3 @@
-
-
 <h1 align="center">MyWallet</h1>
 
 What is MyWallet?
@@ -17,13 +15,23 @@ So, if you've ever asked yourself the same question I did and you're tired of re
 ## Download
 
 1. Go to **[Releases](https://github.com/joaq-26/MyWallet/releases/latest)**.
-2. Under **Assets**, download the installer (the `.exe` file).
+2. Under **Assets**, download the installer for your system: the `.exe` file for Windows or the `.dmg` file for Mac.
 
 ## Install
+
+### Windows
 
 1. Open the installer you downloaded.
 2. If Windows shows the message *"Windows protected your PC"*, click **More info** and then **Run anyway**. It appears because the app doesn't have a publisher certificate yet, not because it is unsafe.
 3. Follow the installer steps and open MyWallet.
+
+### Mac
+
+1. Open the `.dmg` file you downloaded.
+2. Drag the **MyWallet** icon into the **Applications** folder.
+3. Open **Applications** and right-click (or Control-click) **MyWallet**, then choose **Open**.
+4. If macOS shows the message *"MyWallet can't be opened because Apple cannot check it for malicious software"*, click **Cancel**, then go to **System Settings > Privacy & Security**, scroll down to the Security section and click **Open Anyway**. Confirm with your Mac password if asked. It appears because the app doesn't have an Apple developer certificate yet, not because it is unsafe.
+5. You only need to do this the first time. After that, you can open MyWallet normally.
 
 ## First use
 
