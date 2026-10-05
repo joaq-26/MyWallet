@@ -1,9 +1,18 @@
 <h1 align="center">MyWallet</h1>
 
-What is MyWallet?
+<p align="center">
+  <img src="https://img.shields.io/badge/status-stable-brightgreen.svg?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/version-1.0.9-blue.svg?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/license-EULA-lightgrey.svg?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/privacy-local%20data-purple.svg?style=for-the-badge" alt="Privacy">
+  <img src="https://img.shields.io/badge/stack-Tauri%20%7C%20SQLite%20%7C%20ES6%2B-orange.svg?style=for-the-badge" alt="Stack">
+</p>
+
+## What is MyWallet?
+
 As you can probably guess from its name, MyWallet is an app designed to help you manage your personal finances in a simple and intuitive way.
 
-The idea behind this application came from a very common question: "Where did my money go this month?" I realized that I had my finances and savings somewhat unattended. The most logical solution would be to build an Excel spreadsheet with formulas like SUMIF() and COUNTIF(), create charts, and manually track every transaction. However, instead of helping me, it only made me feel even more lost.
+The idea behind this application came from a very common question: "Where did my money go this month?" I realized that I had my finances and savings somewhat unattended. The most logical solution would be to build an Excel spreadsheet with formulas like `SUMIF()` and `COUNTIF()`, create charts, and manually track every transaction. However, instead of helping me, it only made me feel even more lost.
 
 That's why I developed MyWallet. The goal was to create a tool that simplifies financial management in an abysmal way. By simply recording your transactions, you can go from having no idea where your money is going to having a clear picture of your financial situation.
 
@@ -12,6 +21,7 @@ MyWallet is not limited to tracking monthly income and expenses. It can also hel
 In short, MyWallet gives you greater control over your finances, helping you understand your spending habits, monitor your assets, and make better financial decisions.
 
 So, if you've ever asked yourself the same question I did and you're tired of relying on spreadsheets, give MyWallet a try and let me know what you think.
+
 ## Download
 
 1. Go to **[Releases](https://github.com/joaq-26/MyWallet/releases/latest)**.
