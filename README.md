@@ -10,11 +10,13 @@
 
 ---
 
-## Resumen
+## ¿Qué es MyWallet?
 
-**MyWallet** es una aplicación de escritorio diseñada para la gestión integral de finanzas personales de forma privada, eficiente e intuitiva. 
+Como puedes adivinar por su nombre, **MyWallet** es una aplicación de escritorio diseñada para ayudarte a gestionar tus finanzas personales de forma sencilla, intuitiva y **100% privada**.
 
-La aplicación centraliza el control de ingresos, gastos, inversiones y activos, eliminando la necesidad de utilizar hojas de cálculo complejas y proporcionando una visión analítica clara de la salud financiera del usuario.
+La idea nació de la pregunta eterna: *"¿A dónde se ha ido mi dinero este mes?"*. Las alternativas habituales solían ser hojas de cálculo llenas de fórmulas complejas (`SUMIF`, `COUNTIF`, gráficos manuales) que, lejos de ayudar, terminaban abrumando y generando descontrol.
+
+MyWallet resuelve esto de raíz. Con solo registrar tus movimientos diarios, pasas de estar a ciegas a tener una radiografía clara y visual de tu situación financiera.
 
 ### Características Principales
 
@@ -34,8 +36,8 @@ La aplicación centraliza el control de ingresos, gastos, inversiones y activos,
 
 ## Descarga
 
-1. Acceda a la sección de **[Releases](https://github.com/joaq-26/MyWallet/releases/latest)**.
-2. En el apartado **Assets**, descargue el instalador correspondiente a su sistema operativo:
+1. Accede a la sección de **[Releases](https://github.com/joaq-26/MyWallet/releases/latest)**.
+2. En el apartado **Assets**, descarga el instalador correspondiente a tu sistema operativo:
    * **Windows:** Instalador `.exe`
    * **macOS:** Imagen de disco `.dmg`
 
@@ -45,22 +47,22 @@ La aplicación centraliza el control de ingresos, gastos, inversiones y activos,
 
 ### Windows
 
-1. Ejecute el archivo instalador descargado.
-2. Si el sistema muestra una advertencia de seguridad, seleccione **Más información** y posteriormente **Ejecutar de todas formas** *(este aviso se debe a la ausencia de un certificado de firma comercial, sin comprometer la seguridad del software)*.
-3. Siga las instrucciones del asistente de instalación.
+1. Ejecuta el archivo instalador descargado.
+2. Si el sistema muestra una advertencia de seguridad, selecciona **Más información** y posteriormente **Ejecutar de todas formas** *(este aviso se debe a la ausencia de un certificado de firma comercial, sin comprometer la seguridad del software)*.
+3. Sigue las instrucciones del asistente de instalación.
 
 ### macOS
 
 1. Abra el archivo `.dmg` descargado.
-2. Arrastre la aplicación **MyWallet** a la carpeta de **Aplicaciones**.
-3. Haga clic derecho sobre la aplicación manteniendo presionada la tecla Control y seleccione **Abrir**.
-4. En caso de advertencia del sistema, acuda a **Ajustes del Sistema > Privacidad y seguridad** y seleccione **Abrir de todos modos**.
+2. Arrastra la aplicación **MyWallet** a la carpeta de **Aplicaciones**.
+3. Haz clic derecho sobre la aplicación manteniendo presionada la tecla Control y selecciona **Abrir**.
+4. En caso de advertencia del sistema, acude a **Ajustes del Sistema > Privacidad y seguridad** y selecciona **Abrir de todos modos**.
 
 ---
 
 ## Primer Uso
 
-Durante el primer inicio, la aplicación le guiará en la configuración de su perfil de usuario, la definición de su contraseña de acceso y el registro inicial de su capital y entidades bancarias.
+Durante el primer inicio, la aplicación te guiará en la configuración de su perfil de usuario, la definición de tu contraseña de acceso y el registro inicial de tu capital y entidades bancarias.
 
 ---
 
@@ -72,4 +74,4 @@ MyWallet cuenta con un sistema de actualización autónomo. La aplicación detec
 
 ## Soporte y Contribución
 
-Para reportar incidencias o proponer mejoras, por favor abra un **[Issue](https://github.com/joaq-26/MyWallet/issues)** en el repositorio oficial.
+Para reportar incidencias o proponer mejoras, por favor abre un **[Issue](https://github.com/joaq-26/MyWallet/issues)** en el repositorio oficial.
